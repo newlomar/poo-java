@@ -1,3 +1,6 @@
+/* 1) Implemente a Classe Arithmetica que receba dois números inteiros do teclado e apresente a sua
+soma, multiplicação, subtração e divisão. */
+
 import java.util.Scanner;
 import java.util.Locale;
 
